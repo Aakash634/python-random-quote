@@ -1,17 +1,5 @@
-# Let's Write a Python Quote Bot!
+# Intermediate Python Course
 
-This repository will get you started with building a quote bot in Python. It's meant to be used along with the [Learning Lab](https://lab.github.com) intro to Python.
+Hey there, 
 
-When complete, you'll be able to grab random quotes from the command line, like this:
-
-> **$** python get-quote.py
-> 
-> Keep it logically awesome
-> 
-> **$** python get-quote.py
-> 
-> Speak like a human
-
-## Start the Tutorial
-
-You can find your next step in [this repo's issues](../../issues/)!
+In this course you will create a dice-rolling program using python. The code you create will be stored in the dice-roller.py file. This repo also contains course materials under the issues tab. 
